@@ -1,0 +1,9 @@
+{
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.fontSize": 13,
+    "workbench.tree.indent": 20,
+    "editor.wrappingIndent": "deepIndent",
+    "prettier.vueIndentScriptAndStyle": true,
+    "editor.detectIndentation": false,
+    "editor.autoIndent": "none"
+}
